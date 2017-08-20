@@ -1,6 +1,6 @@
 # Intro To Programming C++
 
-## Using the online resource [Learn C++](https://www.learncpp.com)
+## The online resource [Learn C++](http://www.learncpp.com/)
 
 ### Organized by Part > Chapter
 
@@ -9,6 +9,9 @@
     + Compiling first program
     + Build Configurations
 * __1:__ C++ Basics
+    + cout, cin, and endl
+    + Functions and return values
+    + Getting user input
 * __2:__ Variables and Fundamental Data Types
 * __3:__ Operators
 * __4:__ Variable Scope and More Types
