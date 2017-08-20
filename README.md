@@ -1,12 +1,31 @@
 # Intro To Programming C++
-####Following along with "Introduction to Programming with C++" Second Edition by Y. Daniel Liang
+
+#### Using the online resource [Learn C++](https://www.learncpp.com)
+
+### Organized by Part > Chapter
+
+* __0:__ Introduction/Getting Started
+    + Installing an IDE
+    + Compiling first program
+    + Build Configurations
+* __1:__ C++ Basics
+* __2:__ Variables and Fundamental Data Types
+* __3:__ Operators
+* __4:__ Variable Scope and More Types
+* __5:__ Control Flow
+* __6:__ Arrays, Strings, Pointers, and References
+* __7:__ Functions
+
+---
+
+#### Following along with "Introduction to Programming with C++" Second Edition by Y. Daniel Liang
 
 This will act mainly as repository for myself as reference for Chapter Examples and Work Problems dealing with various
 concepts. Any and all problems are from the text book, they are not mine, if you use them please reference the above
 textbook.
 
 ---
-#### Organized by Part > Chapter
+### Organized by Part > Chapter
 
 * Fundamentals of Programming
     + Introduction to Computers
