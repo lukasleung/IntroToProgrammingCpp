@@ -1,11 +1,20 @@
 #!/bin/bash
 
+# Get arguments
+args=( "$@" )
 
-program=$1
+# Print arguments
+echo -e "Compiling and Running the following:"
+for arg in "${args[@]}"; do
+    echo $arg
+done
 
-# Compiling $program into 'runme'
-g++ -o runme $program
+# Compiling programs into 'runme'
+g++ -o runme $@
 
+# Run the programs
+echo -e "Finished compiling, now running\n"
 ./runme
 
+# Cleaning up
 rm runme
